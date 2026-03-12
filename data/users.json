@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "employeeNumber": "EMP001",
+      "passwordHash": "$2b$10$707z2PQU0OmWA6OaO9UCxORrVV0mUHLWP12QLRcOzBJXXjiO3Aznq",
+      "name": "Thando",
+      "surname": "Mokoena",
+      "idNumber": "8001015009087",
+      "companyName": "Pronto Holdings",
+      "dateOfEngagement": "2021-06-15",
+      "bankName": "FNB",
+      "accountNumber": "62123456789"
+    },
+    {
+      "employeeNumber": "KIT002",
+      "name": "Johannes",
+      "surname": "Fritz",
+      "idNumber": "8009155158085",
+      "companyName": "Kitshoff & Associates",
+      "dateOfEngagement": "2025-07-01",
+      "bankName": "Capitec",
+      "accountNumber": "123456789",
+      "passwordHash": "$2b$10$3gijfk.X0TsIlf7prAL02eSP/CBbA5v6Wr2YvRUmSHL98X1zMjO/u"
+    }
+  ]
+}

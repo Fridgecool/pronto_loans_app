@@ -1,0 +1,28 @@
+{
+  "user": {
+    "employeeNumber": "PRO123",
+    "name": "Sunette",
+    "surname": "Fritz",
+    "idNumber": "KIT001",
+    "cellphoneNumber": "0729806235",
+    "bankName": "cap",
+    "accountNumber": 123456
+  },
+  "employmentDetails": {
+    "companyName": "Pronto Loans",
+    "employeeNumber": "PRO123"
+  },
+  "bankDetails": {
+    "bankName": "cap",
+    "accountNumber": 123456
+  },
+  "loanAmount": 500,
+  "repaymentAmount": 600,
+  "uploadResult": {
+    "payslip": "PRO123-1771226585346-payslip.pdf",
+    "bankStatement": "PRO123-1771226585346-bank.pdf"
+  },
+  "signatureData": null,
+  "employeeNumber": "PRO123",
+  "submittedAt": "2026-02-16T07:23:17.443Z"
+}
