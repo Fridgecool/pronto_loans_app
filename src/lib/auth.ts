@@ -5,7 +5,6 @@ import { readJson, writeJson } from "./storage";
 type SessionRecord = {
   token: string;
   employeeNumber: string;
-  password: string;
   expiresAt: string;
   mustChangePassword: boolean;
 };
