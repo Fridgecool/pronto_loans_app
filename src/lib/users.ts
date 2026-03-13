@@ -18,7 +18,7 @@ export type UserProfile = {
   passwordHash: string;
 };
 
-const usersPath = path.join(process.cwd(), "data", "C:\Users\Pronto\pronto_loans_application\datausers.xlsx");
+const usersPath = path.join(process.cwd(), "data", "C:\Users\Pronto\pronto_loans_application\data/users.xlsx");
 const sheetName = "Users";
 const columnOrder = [
   "Employee Number",
