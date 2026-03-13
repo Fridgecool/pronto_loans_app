@@ -19,8 +19,8 @@ export async function sendApplicationEmail(
 
   if (!host || !port || !from) {
     return {
-      sent: true,
-      skipped: false,
+      sent: false,
+      skipped: true,
       reason: "SMTP configuration incomplete.",
     };
   }
