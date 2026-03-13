@@ -2,7 +2,7 @@ import path from "path";
 import fs from "fs/promises";
 import * as XLSX from "xlsx";
 
-const usersPath = path.join(process.cwd(), "data", "users.xlsx");
+const usersPath = path.join(process.cwd(), "data", "C:\Users\Pronto\pronto_loans_application\data/users.xlsx");
 const sheetName = "Employers";
 
 export async function getEmployers() {
